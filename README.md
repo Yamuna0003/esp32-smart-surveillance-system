@@ -1,5 +1,5 @@
-# esp32-smart-doorbell
-Dual mode IoT Smart Doorbell using ESP32 - CAM with Motion Detection and Telegram Alerts
+# esp32-smart-surveillance system
+Dual mode IoT Smart surveillance system using ESP32 - CAM with Motion Detection and Telegram Alerts
 
 🚀 Overview
 Detects motion using PIR
